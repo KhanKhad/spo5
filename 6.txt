@@ -1,0 +1,4 @@
+if a="sdf"
+	then a:=b
+else
+	b:=a;
